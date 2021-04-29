@@ -5,6 +5,7 @@ I'm currently working on a project for TECHO, an NGO that helps people along all
 Apart from that, I'm currently learning Typescript and Python, because, well, I enjoy learning new things/technologies.
 
 And if you're curious, I have to say that my portfolio is in progress.
+
 Ask me about my experience if you like!
 
 
