@@ -1,4 +1,13 @@
-### Hi there 👋
+<img src='https://www.rchsd.org/wp-content/uploads/2019/07/Header_Neurology-2.jpg' />
+Hi!
+I'm Lucas, a 24 years old Full Stack JS Developer from Argentina.
+I'm currently working on a project for TECHO, an NGO that helps people along all latinamerica.
+Apart from that, I'm currently learning Typescript and Python, because, well, I enjoy learning new things/technologies.
+
+And if you're curious, I have to say that my portfolio is in progress.
+Ask me about my experience if you like!
+
+
 
 <!--
 **lucasdiazcano/lucasdiazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
