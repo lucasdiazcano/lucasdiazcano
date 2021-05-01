@@ -1,10 +1,4 @@
-<img src='https://www.rchsd.org/wp-content/uploads/2019/07/Header_Neurology-2.jpg' />
-Hi!
-I'm Lucas, a 24 years old Full Stack JS Developer from Argentina.
-I'm currently working on a project for TECHO, an NGO that helps people along all latinamerica.
-Apart from that, I'm currently learning Typescript and Python, because, well, I enjoy learning new things/technologies.
-
-And if you're curious, I have to say that my portfolio is in progress.
+<img src='https://scontent.faep24-1.fna.fbcdn.net/v/t1.6435-9/180890927_10226627285772376_8579029534867282213_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=E1ws1DLkkCMAX-uXwI2&_nc_ht=scontent.faep24-1.fna&oh=6525d0e50e2712d9941ad0b944256c30&oe=60B497AD' />
 
 Ask me about my experience if you like!
 
